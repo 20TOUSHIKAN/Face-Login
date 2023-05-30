@@ -17,6 +17,7 @@ OpenCV
 face_recognition 
 
 Usage
+
 1)Registering a Face:
 
 Navigate to the registration page by clicking on the "Register" link on the homepage.
